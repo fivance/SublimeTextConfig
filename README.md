@@ -8,4 +8,3 @@ Contains:
 -Emmet
 -PackageResourceViewer
 -Plain Notes
--
